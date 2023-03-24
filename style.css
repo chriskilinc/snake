@@ -1,6 +1,12 @@
 body {
     font-family: consolas;
     text-align: center;
+    background-color: black;
+    color: #fff;
+}
+
+canvas {
+    border: 2px solid #fff;
 }
 
 #messages {
